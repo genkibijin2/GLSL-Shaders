@@ -1,7 +1,5 @@
 # GLSL-Shaders
 Collection of shaders made in GLSL/OpenGL
-# Why?
-As part of my IT training, a key area for me to improve on was my mathematics. In order to improve at concepts that I was originally unfamiliar with, such as linear algebra and GPU maths, I opted to learn GLSL. It heavily relies on using maths functions such as Sin, Cos, Tan, Pow, Roots etc - combining them all to create interesting visual effects that run from a GPU.
 # What is GLSL?
 GLSL is the OpenGL Shader Language. It's the subsection of OpenGL graphics rendering that works on shaders. These shaders use the extremely high individual thread count of the GPU to create images/graphics with maths in an extremely fast way. Each pixels colour is informed via maths functions on how it's going to appear, and none of the variables can rely on the data from another pixel. This means that all of the pixels of a canvas can be computed at the same time, using various values called "Uniforms" to inform the shader of things like resolution, mouse position, time before it computes the next frame. 
 # How does this work?
