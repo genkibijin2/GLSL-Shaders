@@ -24,3 +24,9 @@ gl_FragColor - a 4 point vector that outputs the final colour to the screen. The
 
 ![VertexWave](https://github.com/user-attachments/assets/9434ad35-2001-49c1-9c04-4e152fb3ba53)
 <br/>
+
+---BlueMoonCard.frag---<br/>
+(Note: Requires texture.png file found inside root folder)<br/>
+<img width="400" height="278" alt="BlueMoonCardPreview" src="https://github.com/user-attachments/assets/bd0eea7b-098e-405a-b9ee-a8cbbce67601" />
+<br/>
+
