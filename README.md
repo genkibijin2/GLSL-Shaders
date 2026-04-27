@@ -12,21 +12,20 @@ As mentioned earlier, there are some built in values supplied by the OpenGL driv
 gl_FragCoord - a 2 point vector (x and y) representing the current position of a pixel on the screen.<br/>
 gl_FragColor - a 4 point vector that outputs the final colour to the screen. The 4 floating points represent Red, Blue, Green and Alpha respectively. A gl_FragColor value of 1.0, 1.0, 1.0, 1.0 would display a completely white image.<br/>
 # Shader Previews
----SunsetMagicPond.GLSL---<br/>
-
+**SunsetMagicPond.GLSL**<br/>
 ![SunsetPond](https://github.com/user-attachments/assets/72ebe63a-eeae-4239-ab90-d8b12ede315a)
 <br/>
----60sFuture.GLSL---<br/>
-
+**60sFuture.GLSL**<br/>
 ![60sFuture](https://github.com/user-attachments/assets/628e4da4-f2c7-432e-b1ac-d6b1a0d8cb75)
 <br/>
----VertexWave.GLSL---<br/>
+**VertexWave.GLSL**<br/>
 <img width="289" height="272" alt="VertexWave" src="https://github.com/user-attachments/assets/c907879f-48b6-4e21-878f-364f1c49da59" />
-
 <br/>
-
----BlueMoonCard.frag---<br/>
+**BlueMoonCard.frag**<br/>
 (Note: Requires texture.png file found inside root folder)<br/>
 <img width="400" height="278" alt="BlueMoonCardPreview" src="https://github.com/user-attachments/assets/bd0eea7b-098e-405a-b9ee-a8cbbce67601" />
 <br/>
+**babyWonderful.frag**<br/>
+<img width="400" height="325" alt="babyWonderful" src="https://github.com/user-attachments/assets/ab365ced-cd56-4dac-8003-9b1aa2896aa9" />
+
 
